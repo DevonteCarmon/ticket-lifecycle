@@ -101,6 +101,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 - Here we can see that the ticket has been closed. And that concludes the presentation. 
+
 - Thanks for viewing 
 <p>
 <img src=https://i.imgur.com/BiR9eKZ.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
